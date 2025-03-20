@@ -1,12 +1,47 @@
-## Hi there 👋
+# 👋Hello, world!
 
-<!--
+## 👥 Авторы
+> [!NOTE]
+> Если вы хотите присоединиться к разработке, свяжитесь с нами!
 
-**Here are some ideas to get you started:**
+- [@KotyaraDev](https://github.com/KotyaraDev) ([Telegram](https://t.me/kotyarakryt))
+- [@H0z0n](https://github.com/H0z0n) ([Telegram](https://t.me/AmxM0dX))
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🚀 Поддерживаемые версии
+> [!CAUTION]
+> Версии которые имеют статус *"Неподдерживаются"* - **не рекомендуются** к использованию!
+
+Версия | Статус         | Дата релиза     | Примечания
+-------|----------------|-----------------|------------
+v1.0.0 | 🔧 В разработке  | XX.XX.2025      | ---
+
+
+## 📝 Последние изменения
+> [!TIP]
+> Здесь пусто...
+
+
+## 📋 Требования
+> [!TIP]
+> Для успешного запуска сборки вам потребуются компоненты ниже. Все компоненты являются бесплатными и доступны для скачивания по указанным ссылкам. Однако сама сборка **MJB** является платной. Для получения доступа к сборке свяжитесь с авторами.
+
+Название | Версия         
+---------|---------
+[Metamod-R](https://github.com/rehlds/Metamod-R) | v1.3.0.149+
+[AmxModX](https://github.com/alliedmodders/amxmodx) | v1.9.0+
+[ReAPI](https://github.com/rehlds/reapi) | v5.24.0.300+
+[ReHLDS](https://github.com/rehlds/rehlds) | v3.13.0.788+
+[ReGameDLL](https://github.com/rehlds/ReGameDLL_CS) | v5.26.0.668+
+
+
+## 🤝 Как помочь проекту?
+> [!NOTE]
+> Мы всегда рады помощи! Если вы хотите сообщить о баге или предложить новую идею, пожалуйста, создайте issue в разделе [Issues](https://github.com/mjb-cs/feedbacks/issues).
+
+
+## 📜 Лицензия
+> [!IMPORTANT]
+> Данный проект является платным. Для использования сборки MJB необходимо приобрести лицензию у автора. Любые распространения и/или копирования запрещены.
+
+© MJB - Modular JailBreak, 2025. Все права защищены.
